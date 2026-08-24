@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel 👋
 
-You can grab my full résumé on my [website](https://galinslp.github.io/galinslp/). But since we are on GitHub, I thought I’d let the command line do the talking:
+You can grab my full résumé on my [website](https://galinslp.vercel.app). But since we are on GitHub, I thought I’d let the command line do the talking:
 
 ```bash
 user@MacBook ~ % cat gabriel.json
@@ -46,6 +46,6 @@ user@MacBook ~ % ./analyze_stack.py --input gabriel.json --verbose
 > Data:           PostgreSQL, Snowflake, Neo4j
 > Engineering:    Docker, AWS, FastAPI, Git
 
-user@MacBook ~ % open https://galinslp.github.io/galinslp/
+user@MacBook ~ % open https://galinslp.vercel.app
 [INFO] Opening curriculum vitae...
 ```
